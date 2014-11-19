@@ -1,5 +1,7 @@
 fancyBox
 ========
+轻量级弹层，可实现阴影，iframe、ajax等效果：http://www.fancybox.net/api
+
 
 fancyBox is a tool that offers a nice and elegant way to add zooming functionality for images, html content and multi-media on your webpages.
 
